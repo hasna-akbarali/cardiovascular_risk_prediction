@@ -46,8 +46,6 @@ The project utilizes several machine learning algorithms, each evaluated for its
 - **Logistic Regression and SVM:** Moderate performance, with room for improvement in accuracy and precision.
 - **Gaussian NB Classifier:** Shows lower recall and overall moderate performance.
 
-## Usage
+## Run the Jupyter notebook for detailed analysis and model training
 
-1. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
+- coronary_heart_disease_prediction.ipynb
